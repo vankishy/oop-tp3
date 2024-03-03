@@ -41,7 +41,7 @@ public class Mod3 {
         ab.displayInfo();
         
         song s3 = new song();
-        s3.setTitle("Zenryouku Sounen");
+        s3.setTitle("Zenryoku Shounen");
         s3.setDuration(273);
         s3.setArtist(new String[]{"SUKiMASWITCH"});
         ab.addSong(s3);
